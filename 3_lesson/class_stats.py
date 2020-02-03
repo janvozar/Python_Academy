@@ -1,0 +1,6 @@
+common = (set(classes['Biology'])
+          & set(classes['Math'])
+          & set(classes['PE'])
+          & set(classes['Social Sciences'])
+          & set(classes['Chemistry']))
+print('Students inscribed into all the subjects:', common')
