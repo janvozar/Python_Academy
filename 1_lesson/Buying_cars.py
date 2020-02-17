@@ -1,4 +1,3 @@
-# Task 3: Buying cars
 # Prices
 mercedes    = 150
 rolls_royce = '400'

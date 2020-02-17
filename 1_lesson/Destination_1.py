@@ -1,4 +1,3 @@
-# Task 1: Destination [Onsite]
 # Greet the client
 print('=' * 80)
 print('''Welcome to the DESTINATION,

@@ -1,4 +1,3 @@
-# Task 4: Slicing
 # Task 1
 first_five = 'indexing'[:5]
 print('First five letters: ' + first_five)

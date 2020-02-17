@@ -1,4 +1,3 @@
-# Task 2: Unit Converter
 # Conversion rates
 kg_lb = 2.20
 km_mile = 0.62
