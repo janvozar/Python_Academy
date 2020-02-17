@@ -1,3 +1,4 @@
+# Task 9: List operations 2
 #Results from previous lesson
 candidates = ['Agnes', 'Agnes', 'Agnes']
 employees = ['Francis', 'Bruno', 'Ann', 'Jacob', 'Claire', 'Agnes', 'Agnes', 'Agnes']

@@ -1,3 +1,4 @@
+# Task 7: Create list, add elements
 # Create Candidate
 candidates = []
 # Print candidates at the beginning
