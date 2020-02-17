@@ -1,3 +1,4 @@
+# Task 8: List operations 1
 # Results from previous task
 candidates = ['Bruno', 'Agnes']
 employees = ['František', 'Bruno', 'Ann', 'Jacob', 'Claire']
