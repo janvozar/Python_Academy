@@ -1,4 +1,4 @@
-# Task 41: Reversed
+
 
 def my_reversed(sequence):
     return list(sequence[::-1])
