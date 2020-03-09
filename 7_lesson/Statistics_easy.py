@@ -1,4 +1,4 @@
-# Task 53: tatistics
+# Task 53: Statistics
 
 def sum(values):
     result = 0
